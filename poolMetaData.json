@@ -1,0 +1,6 @@
+{
+"name": "SuperStake",
+"description": "This pool is running with DigitalOcean Cloud Servers. It's using 16 GBs of ram per node, 300 GB SSDs, and 8 AMD VCPUs. Expect great uptime due to our host, and incredible reliability overall! ",
+"ticker": "SST",
+"homepage": "https://www.youtube.com/channel/UCeaoOTTk-m6g5QJGSDqPNMA"
+}
