@@ -3,6 +3,6 @@
 "description": "This pool is running with DigitalOcean Cloud Servers. It's using 16 GBs of ram  (1 Block-producer, 1 Relay), 300 GB SSDs, and 8 AMD VCPUs per node. Expect great uptime due to our host, and incredible reliability!",
 "ticker": "PHXP",
 "homepage": "https://www.youtube.com/channel/UCeaoOTTk-m6g5QJGSDqPNMA",
-"url_png_logo": "https://ibb.co/FJ6fKfB"
+"extended": "https://tinyurl.com/3w6f5j7b"
 }
 
